@@ -40,7 +40,7 @@ local Embed = {
            },
            ["footer"] = {
                ["text"] = os.date("%A".." | ".."%d".." ".."%B".." ".."%Y".." | ".."%X").."| Kai Scripts",
-               ["icon_url"] = "https://cdn.britannica.com/89/145489-050-4E9609BA/moon-return-journey-Apollo-11-July-21-1969.jpg"
+               ["icon_url"] = "https://media.discordapp.net/attachments/1249904010157359151/1250590079487836261/Untitled8_20240613071754.png?ex=666ccfc5&is=666b7e45&hm=4764005ac6efa2eb24f4af9fb07bcbfb44e82755d49bdc5fe8bcd3268ef137e4&"
            }
        }
    },
