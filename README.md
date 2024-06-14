@@ -39,7 +39,7 @@ local Embed = {
            ["url"] = "https://www.touchtapplay.com/wp-content/uploads/2022/09/Mirage-Island-in-Blox-Fruits-Roblox.webp?resize=640%2C358",
            },
            ["footer"] = {
-               ["text"] = os.date("%A".." | ".."%d".." ".."%B".." ".."%Y".." | ".."%X").."| HN Gaming",
+               ["text"] = os.date("%A".." | ".."%d".." ".."%B".." ".."%Y".." | ".."%X").."| Kai Scripts",
                ["icon_url"] = "https://cdn.britannica.com/89/145489-050-4E9609BA/moon-return-journey-Apollo-11-July-21-1969.jpg"
            }
        }
